@@ -1,6 +1,6 @@
 # Portal-Futebol-SP
 # Figma PROA 
-Repositório criado
+Atividade desenvolvida no PROA
 <hr>
 
 <h2> Portal Futebol SP - Feito para você amante de futebol</a></h2>
