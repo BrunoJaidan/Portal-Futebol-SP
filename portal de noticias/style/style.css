@@ -1,0 +1,135 @@
+/* Estilo gerais */
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: #1fd643;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.logo img {
+  width: 250px;
+  height: 110px;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+.nav-list li a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  color: #111111;
+  font-weight: 510;
+}
+
+h1 {
+  font-family: Arial, sans-serif; /* Familia */
+  font-size: 25px; /* Tamanho da fonte */
+  color: white; /* Cor da fonte */
+  font-style: normal; /* Estilo da fonte */
+  text-align: left; /* Texto alinhado */
+  font-weight: 700; /* Peso da fonte. */
+}
+
+article img {
+  border-radius: 10px;
+}
+
+article {
+  background: #f4f1ea;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  margin: 33px;
+  width: 736px;
+  height: 200px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+main {
+  text-align: center;
+}
+
+article h3 {
+  text-align: left;
+  font-weight: 500;
+  padding: 20px 10px 80px 10px;
+}
+
+article img {
+  width: 269px;
+  height: 169px;
+}
+
+main h2 {
+  color: #0e0e0e;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 790;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  border: solid 1px #00b925;
+  width: 114px;
+  height: 30px;
+  text-align: center;
+  color: #00b925;
+  border-radius: 20px;
+  background-color: white;
+}
+
+button:hover {
+  background-color: #00b925;
+  color: white;
+  transform: scale(1);
+}
+
+main p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  font-weight: 400;
+}
+
+ul {
+  display: inline-flexbox;
+  font-size: 14px;
+}
+
+footer {
+  font-size: 15px;
+  background-color: #1fd643;
+  color: #0c0c0c;
+  text-align: center;
+  padding: 10px 0;
+}
