@@ -3,7 +3,7 @@
 Atividade desenvolvida no PROA
 <hr>
 
-<h2> Portal Futebol SP - Feito para você amante de futebol</a></h2>
+<h2><a href="https://brunojaidan.github.io/Portal-Futebol-SP/">Portal Futebol SP - Feito para você amante de futebol</a></h2>
 
 <hr>
 <h3>Últimas notícias, jogos, resultados e muito mais!</a></h3>
