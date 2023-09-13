@@ -1,5 +1,4 @@
 # Portal-Futebol-SP
-# Figma PROA 
 Atividade desenvolvida no PROA
 <hr>
 
